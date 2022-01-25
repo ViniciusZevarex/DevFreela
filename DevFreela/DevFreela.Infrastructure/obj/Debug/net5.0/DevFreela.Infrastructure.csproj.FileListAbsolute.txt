@@ -1,0 +1,36 @@
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.AssemblyInfo.cs
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.deps.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.runtimeconfig.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.runtimeconfig.dev.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\ref\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.csproj.CopyComplete
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\ref\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.genruntimeconfig.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.deps.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.runtimeconfig.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.runtimeconfig.dev.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\bin\Debug\net5.0\ref\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.AssemblyInfo.cs
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.csproj.CopyComplete
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\ref\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Infrastructure\obj\Debug\net5.0\DevFreela.Infrastructure.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.deps.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\bin\Debug\net5.0\ref\DevFreela.Application.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.AssemblyReference.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfoInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfo.cs
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CopyComplete
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\ref\DevFreela.Application.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.AssemblyReference.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfoInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.AssemblyInfo.cs
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\ref\DevFreela.Application.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.deps.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\bin\Debug\net5.0\ref\DevFreela.Application.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\bin\Debug\net5.0\DevFreela.Application.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\bin\Debug\net5.0\DevFreela.Infrastructure.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Application\obj\Debug\net5.0\DevFreela.Application.csproj.CopyComplete

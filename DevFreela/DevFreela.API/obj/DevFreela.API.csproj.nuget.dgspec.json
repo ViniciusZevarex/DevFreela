@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.API\\DevFreela.API.csproj": {}
+  },
+  "projects": {
+    "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.API\\DevFreela.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.API\\DevFreela.API.csproj",
+        "projectName": "DevFreela.API",
+        "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.API\\DevFreela.API.csproj",
+        "packagesPath": "C:\\Users\\Vinicius Zevarex\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinicius Zevarex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Application\\DevFreela.Application.csproj": {
+                "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Application\\DevFreela.Application.csproj"
+              },
+              "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj"
+              },
+              "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
+                "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Application\\DevFreela.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Application\\DevFreela.Application.csproj",
+        "projectName": "DevFreela.Application",
+        "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Application\\DevFreela.Application.csproj",
+        "packagesPath": "C:\\Users\\Vinicius Zevarex\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinicius Zevarex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj"
+              },
+              "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
+                "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.6, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj",
+        "projectName": "DevFreela.Core",
+        "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj",
+        "packagesPath": "C:\\Users\\Vinicius Zevarex\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinicius Zevarex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+        "projectName": "DevFreela.Infrastructure",
+        "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Vinicius Zevarex\\.nuget\\packages\\",
+        "outputPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vinicius Zevarex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj": {
+                "projectPath": "D:\\CURSOS\\.NET\\.NET Direto ao Ponto\\DevFreela - CQRS\\DevFreela.Core\\DevFreela.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

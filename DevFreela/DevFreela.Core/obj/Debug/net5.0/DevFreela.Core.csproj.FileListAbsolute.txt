@@ -1,0 +1,24 @@
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.deps.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\bin\Debug\net5.0\ref\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\obj\Debug\net5.0\ref\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.deps.json
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\bin\Debug\net5.0\ref\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\bin\Debug\net5.0\DevFreela.Core.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfoInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.AssemblyInfo.cs
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\obj\Debug\net5.0\ref\DevFreela.Core.dll
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.pdb
+D:\CURSOS\.NET\.NET Direto ao Ponto\DevFreela - CQRS\DevFreela.Core\obj\Debug\net5.0\DevFreela.Core.csproj.AssemblyReference.cache
